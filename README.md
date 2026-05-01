@@ -45,9 +45,11 @@ digit-recognition_NN
     ├── predictions.png
     └── misclassified.png
 ```
-
+Note: The data folder is not included in this repository because dataset files are large.
+The MNIST dataset is automatically downloaded when you run the notebook.
 ---
 
+---
 ## 🗺️ Notebook Walkthrough
 
 The notebook is organized into **13 clearly documented steps**:
